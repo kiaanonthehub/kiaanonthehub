@@ -11,7 +11,6 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQqkIh-Ah1SKYYoldz-vzrQ?label=Subcribe%20to%20my%20Youtube%20Channel&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/kiaanmyraj?label=Follow%20my%20Twitter&style=social)
 
 
-##About me...
 My program track record in my athletic and academic career shows my hard work and dedication. I am very motivated and also goal orientated in accomplishing major milestones in my academic and sporting career. I'm really passionate about gaining as much knowledge and experience in the field of IT.
 Curiosity is definitely a prerequisite, and a zest for wanting to learn something new.
 
