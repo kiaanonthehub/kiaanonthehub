@@ -16,6 +16,4 @@
 -Motivated individual with strong work ethic and ability to work independently. Strong organizational and team collaboration skills with experience in improving processes. Efficient Student pursuing BSc Computer Science degree with experience collaborating with teammates to create projects in Application Development. Well-versed in Programming with strong understanding of Information Technology. 
 
 -Successful in quickly building skills, self-teaching and acquiring new knowledge. Proactive Student with superior skills in Communication, Network Design and Team Management. Eager to bring value to Industry establishment through hard work and commitment to quality. Offering demonstrated success in Application Development through being able to complete arduous task proficiently for long time periods. Background includes Designing and Team working work focused on experiencing real-world environments and building my IT Professional career. Research-driven and highly organized worker bringing articulate communication skills and strong attention to detail. Dedicated, responsible and eager to grow my abilities while boosting my operational success.
-...
-🧰 Toolbox
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px"/>
+
