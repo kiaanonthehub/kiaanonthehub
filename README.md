@@ -8,3 +8,4 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I stay up way past my bed time and miss lectures *wink* *wink*
 
+https://img.shields.io/twitter/follow/kiaanmyraj?label=My%20twitter%20page&style=social https://img.shields.io/youtube/channel/subscribers/UCQqkIh-Ah1SKYYoldz-vzrQ?label=Subscribe%20to%20my%20channel&style=social
