@@ -21,7 +21,6 @@
   <img alt="ram" src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-MX320-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img alt="ssd" src="https://img.shields.io/badge/512%20GB%20SSD-grey?style=for-the-badge" />
-  <img alt="hdd" src="https://img.shields.io/badge/2%20TB%EXTERNAL%20HDD-grey?style=for-the-badge" />
 </p>
 
 
