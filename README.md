@@ -26,6 +26,7 @@
 
 
 <hr>
+<tr>
    <td>
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
