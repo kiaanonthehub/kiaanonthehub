@@ -3,15 +3,6 @@
 <h4 align="center">Code-Architect by day | Data-Alchemist by night | Software Developer</h4>
 </div>
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
-<div align="center">
-    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
-  </a>
-</div>
-
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
 <hr> 
 <p align='center'>
   💼 &nbsp;My Workspace<br/><br/>
