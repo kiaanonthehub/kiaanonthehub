@@ -1,13 +1,16 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Kiaan</h1>
+<h1 align="center">Hi, I'm Kiaan</h1>
 <h4 align="center">Code-Architect by day | Data-Alchemist by night | Software Developer</h4>
 </div>
 
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
+
 <div align="center">
-  <a href="https://github.com/kiaanonthehub/kiaanonthehub">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  </a>
 </div>
+
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 <hr> 
 <p align='center'>
